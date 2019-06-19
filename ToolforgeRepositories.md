@@ -1,6 +1,6 @@
 REPORT
 
-#Recent Activities/Tasks
+Recent Activities/Tasks
 
 -Created `ToolForge Repositories`
 
